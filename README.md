@@ -1,6 +1,13 @@
 ![Header](https://github.com/rokunets/rokunets/blob/main/assets/QC-vs-QA-01_1254x559_acf_cropped.png)
-## 👋 Hallo!
-## My name is Evgeniy!
+<!--## 👋 Hallo!
+## My name is Evgeniy!-->
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Evgeniy+Rokunets....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 ## I'm a novice QA Engineer.
 
 ---
