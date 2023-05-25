@@ -1,4 +1,4 @@
-[![Header](https://github.com/rokunets/rokunets/blob/main/assets/QC-vs-QA-01_1254x559_acf_cropped.png)
+![Header](https://github.com/rokunets/rokunets/blob/main/assets/QC-vs-QA-01_1254x559_acf_cropped.png)
 ## 👋 Hallo!
 ## My name is Evgeniy!
 ## I'm a novice QA Engineer.
@@ -107,7 +107,7 @@
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/roge.rocky/)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Roge_23)
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/Mr_RoGe_)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
+<!--[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)-->
 [![Header](https://img.shields.io/badge/Facebook-090909?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/evgeniy.rokunets/)
 
 ---
