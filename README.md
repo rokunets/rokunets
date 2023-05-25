@@ -108,7 +108,7 @@
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Roge_23)
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/Mr_RoGe_)
 <!--[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)-->
-[![Header](https://img.shields.io/badge/Facebook-090909?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/evgeniy.rokunets/)
+[![Header](https://img.shields.io/badge/Facebook-090909?style=for-the-badge&logo=facebook&logoColor=31a5db)](https://www.facebook.com/evgeniy.rokunets/)
 
 ---
 
