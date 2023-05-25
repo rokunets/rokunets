@@ -90,7 +90,7 @@
 - [Test-Suites and Test-Cases](https://github.com/rokunets/test-cases)
 - [Bug-Reports](https://github.com/rokunets/bug_reports)
 - [SQL Queries](https://github.com/rokunets/SQL)
-- [Postman Collections](https://github.com/rokunets/postman)
+<!--- [Postman Collections](https://github.com/rokunets/postman)-->
 - [Bash/Git](https://github.com/rokunets/git_started)
 
 
