@@ -74,7 +74,7 @@
 
 ---
 
-## ✏️ Working with code:
+## ✏️ Work with code:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
