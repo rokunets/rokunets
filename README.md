@@ -88,7 +88,7 @@
 ## 🏫 My test tasks:
 - [Checklists](https://github.com/rokunets/checklists)
 - [Test-Suites and Test-Cases](https://github.com/rokunets/test-cases)
-- [Bug-Reports](https://github.com/rokunets/bug-reports)
+- [Bug-Reports](https://github.com/rokunets/bug_reports)
 - [SQL Queries](https://github.com/rokunets/SQL)
 - [Postman Collections](https://github.com/rokunets/postman)
 
