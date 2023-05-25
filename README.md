@@ -1,4 +1,4 @@
-[![Header](https://github.com/rokunets/rokunets/blob/main/assets/QC-vs-QA-01_1254x559_acf_cropped.png)]
+[![Header](https://github.com/rokunets/rokunets/blob/main/assets/QC-vs-QA-01_1254x559_acf_cropped.png)
 ## 👋 Hallo!
 ## My name is Evgeniy!
 ## I'm a novice QA Engineer.
