@@ -91,6 +91,7 @@
 - [Bug-Reports](https://github.com/rokunets/bug_reports)
 - [SQL Queries](https://github.com/rokunets/SQL)
 - [Postman Collections](https://github.com/rokunets/postman)
+- [Bash/Git](https://github.com/rokunets/git_started)
 
 
 ---
