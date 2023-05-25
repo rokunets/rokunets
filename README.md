@@ -113,6 +113,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokunets&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokunets&show_icons=true&theme=transparent)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rokunets)
