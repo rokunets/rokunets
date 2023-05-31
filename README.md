@@ -4,9 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/rokunets/)
 [![GitHub](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/rokunets)
 
-<p align="right">
-<div class="tenor-gif-embed" data-postid="16019423" data-share-method="host" data-aspect-ratio="1.71123" data-width="100%"><a href="https://tenor.com/view/bugs-bunny-software-daffy-duck-gif-16019423">Bugs Bunny Software GIF</a>from <a href="https://tenor.com/search/bugs+bunny-gifs">Bugs Bunny GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</p>
+<img align="right" src="https://i.gifer.com/8Q8N.gif" height="200">
 
 <h2>A Few Quick Facts</h2>
 <ul>
@@ -16,6 +14,7 @@
 <!--<li> 🐍 Learning python in my free time</li>-->
 <!--<li>📙 Check out my <a href="https://drive.google.com/file/d/1L6C3oA_wxW4hP5QjpFqLFu8qRFS4kUD_/view?usp=sharing">resume</a></li>-->
 </ul>
+
 <h2 align="center"> 🛠 Some Tools I Use</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
