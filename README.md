@@ -1,11 +1,13 @@
-## Hi there 👋 My name is Evgeniy and I am QA Engineer.
-## Here I want to share some web and mobile testing portfolio items gained during my studies and current internships.
+## Hi there 👋 My name is Evgeniy and I am QA Engineer. Here I want to share some web and mobile testing portfolio items gained during my studies and current internships.
 
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:rokunec.evgeniy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/rokunets/)
 [![GitHub](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/rokunets)
 
-<img align="right" src="https://tenor.com/ru/view/bugs-bunny-software-daffy-duck-gif-16019423" height="245">
+<p align="right">
+<div class="tenor-gif-embed" data-postid="16019423" data-share-method="host" data-aspect-ratio="1.71123" data-width="100%"><a href="https://tenor.com/view/bugs-bunny-software-daffy-duck-gif-16019423">Bugs Bunny Software GIF</a>from <a href="https://tenor.com/search/bugs+bunny-gifs">Bugs Bunny GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</p>
+
 <h2>A Few Quick Facts</h2>
 <ul>
 <li> 🌱 I’m currently open to job opportunities as QA Engineer </li>
