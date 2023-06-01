@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/rokunets/)
 [![GitHub](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/rokunets)
 
-<img align="right" src="https://media.tenor.com/DhdRi3Mq7c8AAAAC/bugs-bunny-software.gif" height="150">
+<img align="right" src="https://media.tenor.com/DhdRi3Mq7c8AAAAC/bugs-bunny-software.gif" height="180">
 
 <h2>A Few Quick Facts</h2>
 <ul>
