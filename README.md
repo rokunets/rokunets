@@ -8,11 +8,11 @@
 
 <h2>A Few Quick Facts</h2>
 <ul>
-<li> 🌱 I’m currently open to job opportunities as QA Engineer </li>
+<li> 📋 I’m currently open to job opportunities as QA Engineer </li>
 <li> 💰 Came to IT from wholesale trade</li>
-<li> 🐈‍⬛ Most of my study cases are available on <a href="https://github.com/rokunets">Github</a></li> </li>
+<li> 📔 Most of my study cases are available on <a href="https://github.com/rokunets">Github</a></li> </li>
 <!--<li> 🐍 Learning python in my free time</li>-->
-<!--<li>📙 Check out my <a href="https://drive.google.com/file/d/1L6C3oA_wxW4hP5QjpFqLFu8qRFS4kUD_/view?usp=sharing">resume</a></li>-->
+<li> 🔍 Check out my <a href="https://drive.google.com/file/d/1nA9_5IRmTu3-ExVVDf1fMNwJdRyeaU2e/view?usp=drive_link">CV</a></li>
 </ul>
 
 <h2 align="center"> 🛠 Some Tools I Use</h2>
