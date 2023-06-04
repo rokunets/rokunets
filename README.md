@@ -12,7 +12,7 @@
 <li> 💰 Came to IT from wholesale trade</li>
 <li> 📔 Most of my study cases are available on <a href="https://github.com/rokunets">Github</a></li> </li>
 <!--<li> 🐍 Learning python in my free time</li>-->
-<li> 🔍 Check out my <a href="https://drive.google.com/file/d/1nA9_5IRmTu3-ExVVDf1fMNwJdRyeaU2e/view?usp=drive_link">CV</a></li>
+<li> 🔍 Check out my <a href="https://drive.google.com/file/d/1emiaMgziyCtKMd0dabNbm2P1NG1dG-Fc/view?usp=drive_link">CV</a></li>
 <li> 📚 My <a href="https://drive.google.com/file/d/1f97uzmzDE8KVLzs1ITFzsfPNRencyKOP/view?usp=drive_link">Certificate Of Completion</a></li>
 </ul>
 
