@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/rokunets/)
 [![GitHub](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/rokunets)
 
-<img align="right" src="https://media.tenor.com/DhdRi3Mq7c8AAAAC/bugs-bunny-software.gif" height="180">
+<img align="right" src="https://media.tenor.com/DhdRi3Mq7c8AAAAC/bugs-bunny-software.gif" height="200">
 
 <h2>A Few Quick Facts</h2>
 <ul>
@@ -13,6 +13,7 @@
 <li> 📔 Most of my study cases are available on <a href="https://github.com/rokunets">Github</a></li> </li>
 <!--<li> 🐍 Learning python in my free time</li>-->
 <li> 🔍 Check out my <a href="https://drive.google.com/file/d/1nA9_5IRmTu3-ExVVDf1fMNwJdRyeaU2e/view?usp=drive_link">CV</a></li>
+<li> 📚 My <a href="https://drive.google.com/file/d/1f97uzmzDE8KVLzs1ITFzsfPNRencyKOP/view?usp=drive_link">Certificate Of Completion</a></li>
 </ul>
 
 <h2 align="center"> 🛠 Some Tools I Use</h2>
