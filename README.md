@@ -64,7 +64,7 @@
 
 ##### GSPOT:
 
-- [Testing Documentation](https://github.com/rokunets/GSPOT)
+- [Testing Documentation](https://github.com/rokunets/GSPOTtestingdocumentation)
 
 ---
 
