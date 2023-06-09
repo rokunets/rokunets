@@ -60,8 +60,11 @@
 
 ---
 
-## 💻 Internship:
-Here <a href="https://github.com/rokunets/GSPOT">GSPOT</a>, information about my internship will be stored and updated.
+## 💻 Internship - Here, information about my internship will be stored and updated:
+
+##### GSPOT:
+
+- [Testing Documentation](https://github.com/rokunets/GSPOT)
 
 ---
 
