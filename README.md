@@ -11,7 +11,7 @@
 <li> 📋 I’m currently open to job opportunities as QA Engineer </li>
 <li> 💰 Came to IT from wholesale trade</li>
 <li> 📔 Most of my study cases are available on <a href="https://github.com/rokunets">Github</a></li> </li>
-<!--<li> 🐍 Learning python in my free time</li>-->
+<li> 🐍 Learning python in my free time</li>
 <li> 🔍 Check out my <a href="https://drive.google.com/file/d/1emiaMgziyCtKMd0dabNbm2P1NG1dG-Fc/view?usp=drive_link">CV</a></li>
 <li> 📚 My <a href="https://drive.google.com/file/d/1f97uzmzDE8KVLzs1ITFzsfPNRencyKOP/view?usp=drive_link">Certificate Of Completion</a></li>
 </ul>
@@ -49,7 +49,7 @@
 - [Bug-Reports](https://github.com/rokunets/bug_reports)
 - [SQL Queries](https://github.com/rokunets/SQL)
 - [Bash/Git](https://github.com/rokunets/git_started)
-<!-- [Postman Collections](https://github.com/rokunets/postman)-->
+- [Postman Collections](https://github.com/rokunets/postman)
 <h3 align="center"> Take a look at my repositories and let's get in touch! </h3>
 
 ---
