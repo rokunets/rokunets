@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Evgeniy and I am QA Engineer. Here I want to share some web and mobile testing portfolio items gained during my studies and current internships.
+## Hi there 👋 My name is Evgenii and I am QA Engineer. Here I want to share some web and mobile testing portfolio items gained during my studies and current internships.
 
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:rokunec.evgeniy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/rokunets/)
